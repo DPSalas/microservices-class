@@ -1,4 +1,4 @@
-# Student name: David Paul salas
+# Student name: David salas
 
 ## Student email: dsalas11@collin.edu
 
